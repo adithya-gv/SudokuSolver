@@ -1,0 +1,1 @@
+August 4, 2020: Initial Sudoku Solver and Generator Algorithm, along with Client code and Coordinate class code.
